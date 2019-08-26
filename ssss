@@ -3,11 +3,8 @@ learning git tool
 it is a open source
 jenkins using for CI/CD pineline
 using for resolving merge conflicts
-<<<<<<< HEAD
 it is a repository
 diff merge tool for resolving conflicts
-
-=======
-git is distributed version control system
-git is a source code management
->>>>>>> cb732bde10e543608d4707a7116b1464e6747903
+adding one line
+adding third line
+this is the final line
